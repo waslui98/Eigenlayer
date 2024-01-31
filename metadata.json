@@ -1,0 +1,7 @@
+{
+  "name": "Имя ноды",
+  "website": "www.example.com",
+  "description": "I operate on some data",
+  "logo": "лого создаем тут, фото должно быть в формате .png",
+  "twitter": "https://x.com/example"
+}
